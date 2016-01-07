@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>kIcon</key>
+		<string>演员.png</string>
+		<key>kArt</key>
+		<string>薛之谦</string>
+		<key>kName</key>
+		<string>演员</string>
+		<key>kType</key>
+		<string>mp3</string>
+	</dict>
+	<dict>
+		<key>kIcon</key>
+		<string>当你老了.jpg</string>
+		<key>kArt</key>
+		<string>李健</string>
+		<key>kName</key>
+		<string>当你老了</string>
+		<key>kType</key>
+		<string>mp3</string>
+	</dict>
+	<dict>
+		<key>kIcon</key>
+		<string>时间都去哪了.png</string>
+		<key>kArt</key>
+		<string>周笔畅</string>
+		<key>kName</key>
+		<string>时间都去哪儿了</string>
+		<key>kType</key>
+		<string>mp3</string>
+	</dict>
+	<dict>
+		<key>kIcon</key>
+		<string>红颜劫.png</string>
+		<key>kArt</key>
+		<string>姚贝娜</string>
+		<key>kName</key>
+		<string>红颜劫</string>
+		<key>kType</key>
+		<string>mp3</string>
+	</dict>
+</array>
+</plist>
